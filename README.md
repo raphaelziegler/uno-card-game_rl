@@ -28,5 +28,8 @@ Finally the results after training the RL-model are being analyzed in terms to c
 **Python Version:** 3.7  
 **Packages:** pandas, numpy, random, itertools, time, tqdm, sys, os, matplotlib, seaborn, ipywidgets
 
+##git contribution
+
+
 
 
